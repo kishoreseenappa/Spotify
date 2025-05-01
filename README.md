@@ -40,4 +40,4 @@ The Power BI dashboard includes the following visuals:
 
 ## 🙌 Credits
 
-Dashboard created by [kishore seenappa].
+Dashboard created by Kishore Seenappa.
